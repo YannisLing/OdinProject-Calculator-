@@ -30,6 +30,10 @@ body{
   height: 100px;
   border: 2px solid rgb(0, 102, 255);
   background-color:rgb(45, 67, 93);
+  text-align: end;
+  font-size: xx-large;
+  color:aqua;
+  
 }
 .functions{
   display: flex;
